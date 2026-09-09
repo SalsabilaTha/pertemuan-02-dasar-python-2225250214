@@ -33,6 +33,6 @@ Jalankan program melalui terminal VS Code dengan perintah:
 
 ## Refleksi Mahasiswa
 
-• Konsep yang paling saya pahami adalah variabel, tipe data, input-output, dan operator dasar Python karena saya sudah memahami cara menyimpan nilai dalam variabel, menerima input dari pengguna, mengubah tipe data, serta melakukan operasi perhitungan.
-• Kesalahan yang saya temukan adalah saya sempat menganggap input angka dari keyboard langsung menjadi angka dan saya memperbaikinya dengan menggunakan int() atau float() sesuai dengan jenis data yang dibutuhkan.
-• Pada pertemuan berikutnya saya ingin lebih memahami cara menggunakan percabangan dan bagaimana menentukan kondisi dalam program agar program dapat memberikan hasil yang berbeda sesuai dengan input pengguna.
+- Konsep yang paling saya pahami adalah variabel, tipe data, input-output, dan operator dasar Python karena saya sudah memahami cara menyimpan nilai dalam variabel, menerima input dari pengguna, mengubah tipe data, serta melakukan operasi perhitungan.
+- Kesalahan yang saya temukan adalah saya sempat menganggap input angka dari keyboard langsung menjadi angka dan saya memperbaikinya dengan menggunakan int() atau float() sesuai dengan jenis data yang dibutuhkan.
+- Pada pertemuan berikutnya saya ingin lebih memahami cara menggunakan percabangan dan bagaimana menentukan kondisi dalam program agar program dapat memberikan hasil yang berbeda sesuai dengan input pengguna.
